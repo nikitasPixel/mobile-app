@@ -17,8 +17,8 @@
     * watchman
 
 ## Setup
-* clone the repo localy: `git clone https://inqa_stamoulohta@bitbucket.org/b2b-customer-app/my_zeelandia_mobile_app.git`
-* enter directory: `cd my_zeelandia_mobile_app`
+* clone the repo localy
+* enter directory
 * install dependecies: `npm install`
 
 ## Run
