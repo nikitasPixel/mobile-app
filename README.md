@@ -1,11 +1,4 @@
-# MyZeelandia b2b App
-
-Here lies the code of **MyZeelandia** b2b mobile application writen in React Native. 
-
-* **Version**: a.1.*
-* **Administration**: [myzeelandia.com] (http://myzeelandia.com)
-* **Google Play**: TODO
-* **App Store**: TODO
+# App
 
 ## Dependencies
 * Linux Dependencies (use distro's package manager)
@@ -70,7 +63,3 @@ TODO
 * State management tool (low priority 1 week)
 * Transitions
 * Regression testing
-
-## Contacts
-* George Stamoulis - [stamoulohta] (http://stamoulohta.com) - g.a.stamoulis@gmail.com
-* Evangelia Deligianni - [linkedin] (https://linkedin.com/in/evangelia-deligianni-680b811b7) - e.deligianni@inqadigital.com
