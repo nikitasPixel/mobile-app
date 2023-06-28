@@ -1,0 +1,1 @@
+//TODO borders, shadow, search scope bar
